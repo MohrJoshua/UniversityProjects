@@ -4,6 +4,8 @@ Those are the first courseworks I had as assignments for my MSc at University of
 
 ## Statistics and statistical mining:
 
+Graded: 100/100
+
 Product Categorisation using Python 3
 
 We were given a dataset with a description column and level 1,2 and 3 hashes, a "code" for a product. Level 1 being a more broader categorisation , becoming more specific towards level 3.
@@ -13,6 +15,8 @@ At last, predict the hashes for each description.
 
 
 ## Data programming in Python:
+
+Graded: 100/100
 
 The task was to find a dataset online, or webscrape data and propose a project which will be worked on as the second part of the coursework.
 
