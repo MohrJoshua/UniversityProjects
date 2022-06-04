@@ -8,10 +8,10 @@ Graded: 100/100
 
 Product Categorisation using Python 3
 
-We were given a dataset with a description column and level 1,2 and 3 hashes, a "code" for a product. Level 1 being a more broader categorisation , becoming more specific towards level 3.
+We were given a dataset with a description column and level 1,2 and 3, a "code" for a product. Level 1 being a more broader categorisation , becoming more specific towards level 3.
 
 The task was to preprocess the data and clean it. Then prepare data for TF-IDF and train models for the three levels and save the models.
-At last, predict the hashes for each description.
+At last, predict the codes for each description.
 
 
 ## NLP: 
