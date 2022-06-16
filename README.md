@@ -72,3 +72,9 @@ Graded: not graded yet
 
 The task was to carry out a Data Visualization project. Research questions had to be answered by conducting a survey and adding context with external datasets. The questions had to be answered by writing as well as visualizing the data. The data from the suvey and from external sources was cleaned and processed before visualisation.
 
+
+## Modules and Projects which will be uploaded after the University deadline:
+
+-Machine learning CW1
+-Blockchain Programming CW1
+-R for Data Science CW1
