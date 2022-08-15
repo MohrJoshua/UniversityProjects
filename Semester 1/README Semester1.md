@@ -1,4 +1,4 @@
-# UniversityProjects
+# UniversityProjects Semester 1
 
 Grade average after first semester: 78,5. 
 
