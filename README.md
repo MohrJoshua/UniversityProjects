@@ -13,11 +13,17 @@ Each Folder contains a ReadMe about some brief explanations about the projects.
 Modules in Semester 1:
 
 -Big Data
+
 -Data Visualisation
+
 -Data programming in Python
+
 -Natural Language Processing
+
 -Neural Networks
+
 -Statistics and statistical mining
+
 
 Projects for semester 1 are completly uploaded.
 
