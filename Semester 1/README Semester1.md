@@ -1,10 +1,14 @@
 # UniversityProjects
 
-Those are the first courseworks I had as assignments for my MSc at University of London. 
-
 Grade average after first semester: 78,5. 
 
 Grade average equals 1,0 in german grades.
+
+Those are the first courseworks I had as assignments for my MSc at University of London. Below are some brief explanations about those projects.
+
+I had 2 projects for each module except for NLP and Statistics where I had 1 exam and 1 project each.
+
+Data Visualization and Big Data CW2 were not my best work as I was sick with covid for several weeks and had to push trough to complete the projects in minimal time.
 
 ## Statistics and statistical mining:
 
@@ -83,12 +87,3 @@ The task was to use Big Data Techniques like Hadoop and PySpark to propose and c
 Graded: 80&52/100
 
 The task was to carry out a Data Visualization project. Research questions had to be answered by conducting a survey and adding context with external datasets. The questions had to be answered by writing as well as visualizing the data. The data from the suvey and from external sources was cleaned and processed before visualisation.
-
-
-Data Visualization and Big Data CW2 were not my best work as I was sick with covid for several weeks and had to push trough to complete the projects in minimal time.
-
-## Modules and Projects which will be uploaded after the University deadline:
-
--Machine learning CW1
--Blockchain Programming CW1
--R for Data Science CW1
