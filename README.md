@@ -30,9 +30,14 @@ Projects for semester 1 are completly uploaded.
 Modules in Semester 2:
 
 -Blockchain programming
+
 -Data science research topics
+
 -Final Project
+
 -Machine learning
+
 -R for data science
+
 
 Since coursework 1 and courswork 2 for each module are often connected and cw2 builds on cw1, I can not upload a lot of projects for semester 2 at this point in time.
