@@ -8,6 +8,8 @@ Grade average equals 1,0 in german grades.
 
 ## Statistics and statistical mining:
 
+Project:
+
 Graded: 100/100
 
 Product Categorisation using Python 3
@@ -17,13 +19,19 @@ We were given a dataset with a description column and level 1,2 and 3, a "code" 
 The task was to preprocess the data and clean it. Then prepare data for TF-IDF and train models for the three levels and save the models.
 At last, predict the codes for each description.
 
+Exam: 94/100
+
 
 ## NLP: 
+
+Project:
 
 Graded: 90/100
 
 The task was to apply NLP techtechniques to a dataset of my choice. I chose the Twitter airline dataset available on Kaggle and trained a classifier to predict, wether a tweet had
 negative or positive sentiment about a airline.
+
+Exam: 79/100
 
 
 ## Data programming in Python CW1:
@@ -76,6 +84,8 @@ Graded: 80&52/100
 
 The task was to carry out a Data Visualization project. Research questions had to be answered by conducting a survey and adding context with external datasets. The questions had to be answered by writing as well as visualizing the data. The data from the suvey and from external sources was cleaned and processed before visualisation.
 
+
+Data Visualization and Big Data CW2 were not my best work as I was sick with covid for several weeks and had to push trough to complete the projects in minimal time.
 
 ## Modules and Projects which will be uploaded after the University deadline:
 
