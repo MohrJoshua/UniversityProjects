@@ -27,13 +27,15 @@ The final project is equivalent to a Master Thesis. It will be uploaded after co
 
 Graded: Not graded yet
 
-I was given a jupyter notebook and had to follow the given instructions. It involved cleaning and preparing  and visualizing the data.
-
-
-
-
+I was given a jupyter notebook and had to follow the given instructions. The use of relevant libraries was not allowed and everything had to be programmed from scratch. The task involved cleaning and preparing  and visualizing the data.
+In the next steps I had to implement a kNN algorith from  and then perform nested cross validation.
+The results were evalutaed and a confusion matrix was plotted. Also some questions had to be anserwed in this project.
 
 
 ## R for data science:
 
 Graded: 52/100
+
+The task was to perform EDA and prepare a dataset of choice for future work/ML. I chose to clean a movie review dataset.
+
+Since I was moving back to germany at the time of this project deadline, I did not spend much time on this project at all and did the bare minimum.
