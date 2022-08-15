@@ -1,6 +1,6 @@
 # UniversityProjects
 
-Those are the first courseworks I had as assignments for my MSc at University of London.
+Those are the first courseworks I had as assignments for my MSc at University of London. Grade average after first semester: 78,5 which equaly the grade of 1,0 in Germany.
 
 ## Statistics and statistical mining:
 
@@ -33,7 +33,7 @@ I webscraped data from transfermarkt.de to get data about the transfers of BVB a
 
 ## Data programming in Python CW2:
 
-Graded: not graded yet
+Graded: 71
 
 Webscraped some more data. The previous dataset and the new data were both manipulated to perform in depth analysis and to answer specific questions.
 
@@ -48,7 +48,7 @@ label for each imagine. We were not allowed to use more advanced techniques like
 
 ## Neural Networks CW2:
 
-Graded: not graded yet
+Graded: 100/100
 
 The task was to follow the Deep learning for Python workflow for any dataset of my choice, but with advanced technquies that were learned in the second part of the course. I chose the Malaria dataset and created several convolutional neural networks to classify images.
 
@@ -61,14 +61,14 @@ The task was to use Hadoops' MadReduce and perform data analysis on a given data
 
 ## Big Data CW2:
 
-Graded: not graded yet
+Graded: 53/100
 
 The task was to use Big Data Techniques like Hadoop and PySpark to propose and carry out a Big Data porject of choice. I chose to use the Amazon Review dataset and used MLlib to classify the review text and used the ratings(1-5) as labels.
 
 
 ## Data Visualization CW1&2:
 
-Graded: not graded yet
+Graded: 80&52/100
 
 The task was to carry out a Data Visualization project. Research questions had to be answered by conducting a survey and adding context with external datasets. The questions had to be answered by writing as well as visualizing the data. The data from the suvey and from external sources was cleaned and processed before visualisation.
 
