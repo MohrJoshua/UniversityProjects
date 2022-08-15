@@ -1,6 +1,10 @@
 # UniversityProjects
 
-Those are the first courseworks I had as assignments for my MSc at University of London. Grade average after first semester: 78,5 which equaly the grade of 1,0 in Germany.
+Those are the first courseworks I had as assignments for my MSc at University of London. 
+
+Grade average after first semester: 78,5. 
+
+Grade average equals 1,0 in german grades.
 
 ## Statistics and statistical mining:
 
